@@ -7,11 +7,7 @@ Welcome to my personal portfolio project! This project showcases my skills as a 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -32,9 +28,20 @@ This portfolio website is a single-page application that provides an overview of
 - HTML5
 - CSS3
 - JavaScript
-- [Bootstrap](https://getbootstrap.com/) (for responsive design)
-- [Font Awesome](https://fontawesome.com/) (for icons)
+- Font - https://fonts.google.com
 
+## Project Structure
+portfolio/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── bootstrap.min.css
+├── js/
+│   ├── main.js
+│   └── bootstrap.min.js
+├── images/
+│   └── (all image files)
+└── README.md
 
 ## Contact
 
