@@ -9,6 +9,7 @@ Welcome to my personal portfolio project! This project showcases my skills as a 
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
 - [Contact](#contact)
+- [Trello Board](#trello)
 
 ## Introduction
 
@@ -41,6 +42,9 @@ portfolio/
 ├── images/
 │   └── (all image files)
 └── README.md
+
+## trello
+https://trello.com/invite/b/W3XREA1E/ATTI366aa8e36d75bc4dad873cc6af812ede3078D486/aditiya-saini-personal-website-development
 
 ## Contact
 
