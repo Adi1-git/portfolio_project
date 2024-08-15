@@ -18,9 +18,8 @@ This portfolio website is a single-page application that provides an overview of
 
 - Home: Introduction and overview of the website.
 - About Me: Details about my education and qualifications.
+- Work Experience: Information about my past job roles and responsibilities, list of technical and soft skills.
 - Projects: Showcasing my projects with descriptions and links to GitHub repositories.
-- Work Experience: Information about my past job roles and responsibilities.
-- Skills: List of technical and soft skills.
 - Contact: Form to reach out to me directly.
 
 ## Technologies Used
