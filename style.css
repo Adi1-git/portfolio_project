@@ -5,6 +5,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -421,13 +422,19 @@ article .icon {
 #contact {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
     height: 70vh;
+    padding: 2rem;
+    height: auto;
+    min-height: 70vh;
+    box-sizing: border-box;
 }
 
 .contact-info-upper-container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     border-radius: 2rem;
     border: rgb(52, 52, 52) 0.1rem solid;
     border-color: rgb(162, 162, 162);
@@ -442,10 +449,12 @@ article .icon {
     justify-content: center;
     gap: 0.5rem;
     margin: 1rem;
+    flex-wrap: wrap;
 }
 
 .contact-info-container p {
     font-size: larger;
+    margin: 0;
 }
 
 .contact-icon {
